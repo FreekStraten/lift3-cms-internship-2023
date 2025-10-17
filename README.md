@@ -13,11 +13,10 @@ and improving the user interface.
 ## Preview
 Below are some screenshots of the interface (no internal data).
 
-![Dashboard](docs/screenshots/Users.png)
-![Create User](docs/screenshots/CreateUser.png)
-![Logs](docs/screenshots/Logs.png)
-![Performance](docs/screenshots/Accessibility.png)
+![Create User](docs/create-user.png)
+![Logs](docs/tags.png)
+![Performance](docs/accessibility.png)
 
-![Demo GIF](docs/screenshots/demo.gif)
+![Demo GIF](docs/demo.gif)
 
 **Supervisor:** Pim Arts (Co-Owner, Lift3)
