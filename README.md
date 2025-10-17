@@ -13,10 +13,17 @@ and improving the user interface.
 ## Preview
 Below are some screenshots of the interface (no internal data).
 
+### 🎬 Demo Lists
+![Demo GIF](docs/demo.gif)
+
+### 👤 User Management
 ![Create User](docs/create-user.png)
+
+### ⚙️ Logs & Permissions
 ![Logs](docs/tags.png)
+
+### 📊 Performance Overview
 ![Performance](docs/accessibility.png)
 
-![Demo GIF](docs/demo.gif)
 
 **Supervisor:** Pim Arts (Co-Owner, Lift3)
